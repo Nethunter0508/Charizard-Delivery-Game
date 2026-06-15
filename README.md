@@ -1,16 +1,16 @@
-Charizard Delivery Adventure
+##Charizard Delivery Adventure
 
 A 2D delivery-based game built with Unity and C# where players control Charizard to collect and deliver packages across a colorful fantasy world. The game combines exploration, movement mechanics, speed boosters, and package delivery objectives to create an engaging gameplay experience.
 
 ---
 
-Gameplay
+##Gameplay
 
 Take control of Charizard and navigate through the map to collect packages and deliver them to their destinations. Use speed boosters to move faster and complete deliveries efficiently while avoiding obstacles along the way.
 
 ---
 
-Features
+##Features
 
 * Smooth 2D movement using Unity's Input System
 * Dynamic left/right character orientation
@@ -23,7 +23,7 @@ Features
 
 ---
 
-Technologies Used
+##Technologies Used
 
 * Unity Engine
 * C#
@@ -35,7 +35,7 @@ Technologies Used
 
 ---
 
-Learning Objectives
+##Learning Objectives
 
 This project helped me learn:
 
@@ -49,7 +49,7 @@ This project helped me learn:
 
 ---
 
-Controls
+##Controls
 
 | Key | Action     |
 | --- | ---------- |
@@ -60,7 +60,7 @@ Controls
 
 ---
 
-Project Structure
+##Project Structure
 
 ```text
 Assets/
@@ -78,7 +78,7 @@ Assets/
 
 
 
-Future Improvements
+##Future Improvements
 
 * Score Tracking System
 * Timer System
@@ -89,14 +89,14 @@ Future Improvements
 * Mobile Controls
 
 
-Author
+##Author
 
 Sujal Yadav
 
 Frontend Developer • Data Scientist • Unity Game Developer
 
-Passionate about creating games, web applications, and exploring new technologies.
-Special thanks to 
+Passionate about creating games, web applications, and exploring new technologies.<br>
+Special thanks to GameDev.tv
 
 
 ⭐ If you found this project interesting, consider giving it a star!
