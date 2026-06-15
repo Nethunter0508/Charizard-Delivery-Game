@@ -1,16 +1,16 @@
-##Charizard Delivery Adventure
+## Charizard Delivery Adventure
 
 A 2D delivery-based game built with Unity and C# where players control Charizard to collect and deliver packages across a colorful fantasy world. The game combines exploration, movement mechanics, speed boosters, and package delivery objectives to create an engaging gameplay experience.
 
 ---
 
-##Gameplay
+## Gameplay
 
 Take control of Charizard and navigate through the map to collect packages and deliver them to their destinations. Use speed boosters to move faster and complete deliveries efficiently while avoiding obstacles along the way.
 
 ---
 
-##Features
+## Features
 
 * Smooth 2D movement using Unity's Input System
 * Dynamic left/right character orientation
@@ -23,7 +23,7 @@ Take control of Charizard and navigate through the map to collect packages and d
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 * Unity Engine
 * C#
