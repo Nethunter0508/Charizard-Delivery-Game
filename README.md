@@ -35,7 +35,7 @@ Take control of Charizard and navigate through the map to collect packages and d
 
 ---
 
-##Learning Objectives
+## Learning Objectives
 
 This project helped me learn:
 
@@ -49,7 +49,7 @@ This project helped me learn:
 
 ---
 
-##Controls
+## Controls
 
 | Key | Action     |
 | --- | ---------- |
@@ -60,7 +60,7 @@ This project helped me learn:
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```text
 Assets/
@@ -74,11 +74,11 @@ Assets/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 
 
-##Future Improvements
+## Future Improvements
 
 * Score Tracking System
 * Timer System
@@ -89,7 +89,7 @@ Assets/
 * Mobile Controls
 
 
-##Author
+## Author
 
 Sujal Yadav
 
