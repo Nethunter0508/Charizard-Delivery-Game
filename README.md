@@ -74,7 +74,8 @@ Assets/
 
 ---
 
-## Screenshots
+## Screenshot
+![image alt](https://github.com/Nethunter0508/Charizard-Delivery-Game/blob/c7f0c1073f9fd3165f5fe8825b1215f93b4480b8/Screenshot%202026-06-16%20004954.png)
 
 
 
